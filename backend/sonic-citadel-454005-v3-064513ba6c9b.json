@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sonic-citadel-454005-v3",
+  "private_key_id": "064513ba6c9b0174c9de8ddf57391867c322d0c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDWHoaUCbpiAvuS\nZ8LCez8CPNzUTbLLVAYBlgzKZwxwQ15/d1IDI+Z+0G+v5rcM2vzq6YIFlyM3lUfa\nENlZUISj63KYnXuB8FH2qPRcr4VhG6iMyDAYvadnxmF0G3WeNuMUd8Pp/KOovG0R\nv879Vk/tH6aPWpQXutMszaIHEpzx6UdM6NOpKNbxizkktNv/NqTpnA91ISa5D41x\nl11MgiemHPn5DvXJpYQiO5diFylaE87LWnIQM34L17Zoj6jJAMBxatH5GdMoH6AU\n94u01rn/EvqsX+/KhyHhroH6yhRV2cgIUBilzvoOTf4bS3K6EIQZPdWX66Wy9uga\nYFgOZlkzAgMBAAECggEAM4jOUEQVIXDhVsf1drSOIj4+0jRPM6Pp/Ci+tFpgAocc\nb+ZqjUnvOJd3Qilv5j6wv+NqwWiyd7bMv93tShNYkVFiV/wTVV9fgtQAWGyAWDJ9\ne0DVXqcK6y2yl+zh/q3sMqlutFrzkvGi+LInIg9LlmFXR8p/uURkfjSR6kzfDFPt\n0SHRILSuEtwlaKUHjrlkJb4zkoBDVQIR50O+2rgIFPeZxfaV6mNKI2trMJnh6q5n\nafOo9p3mQ2AzfRZmR/q4r3Nnx0/bq3YwJWbkAycKi+fOkupiKd1E2iEvtxpNPrdk\nL857od4d4V87AxEf1mVDQaunSNtSS4hqVWEeRI3H0QKBgQD3JnGNlg+u9WBMqt/+\n/ZL8gWnJu3htC/feil115lcss3PIVaGVB7ygJeq9pHkNo5cMnZeYtU+fw1HsPvBN\nzhldhasdDPEV7sByKThE7bo0M2kjORfxuqfZ+6AlukJT39XHLn3yw5O3mBqiLe01\ncw/JO8l0FmA0UhecRzAw9gbpcQKBgQDdyUv+LSqXLKaGcV5iAU6yebPetB6KLvkC\nquwQZ3XDF91aOEfdZwL80mS42+B2m0XgRWP0fqu7RXCF1rkESnQ1lI2T0YH2Z4ol\nWaFPQ+avcST1+ZEfVktPiVGUEdIedqNltRs/boidXWAbPRxdRiQbu8FHNrMQu4th\n5pdvvJ364wKBgAjtI4bIl7Jq/FpohYSRJgDmr6pwke3mU8J+3tdGRXnA1Xqz1Q0r\n5V0nYW4OBa0/blIvUu1aBxEvHcNZlpZIzlO5Yy++auqu39Z/tJ+Qsnv2K2LxSfMa\nGbvewa77JjAfUnpKLJRbCffEj5mx7PJUQIq1FRaTRFA/csjbLVtnV2KRAoGAe20j\nFXkdUrROmFNPK0t++GQybaXfuRcbDRkB9r8dEk2dqi/YDqbdSsXrt9Tlvhv7bywu\nzEoSWE30qQcuP+0PbyIVCEZ4BSDqCI8w7mPjZY+Z+inBUac8ki7hb33baYistlVr\nrIlfDfSBH6eKuX3name60F7omE9G6lzhuhVF9fECgYAgK3ocj7/o2mvUII0zDzU+\ne6jBzTePGcSXf/HJ7K6uqgzwrJEFeqwC7J1weFP8TXsWDH5jXVebCbq36OLmCfeq\nxmA4rMOf3rlfOfwdnZ9VquIV8JG2mCW61M4yAKKKuRdm4lI946O+3w/rnXoH1FNz\nMOD890Rq54Bn2axVyTB3nQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-api-access@sonic-citadel-454005-v3.iam.gserviceaccount.com",
+  "client_id": "113395168907862319424",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-api-access%40sonic-citadel-454005-v3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
